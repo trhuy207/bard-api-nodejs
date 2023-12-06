@@ -1,4 +1,18 @@
 {
+  "name": "bard-api-nodejs",
+  "version": "1.0.0",
+  "description": "This example is so cool.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npm server.js"
+  },
+  "keywords": [
+    "bardApiNodejs",
+    "heroku"
+  ],
+  "author": "William Tran",
+  "license": "MIT",
   "dependencies": {
     "@google-ai/generativelanguage": "^1.1.0",
     "cors": "^2.8.5",
